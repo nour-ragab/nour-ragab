@@ -13,7 +13,7 @@
 <p align="center">
   Hi, I'm Nour Ragab, a Computer Science student at Damietta University 🎓
   <br>
-  🤖 Interested in AI Engineering, building intelligent applications, and software development.
+  🤖 Interested in AI Engineering and software development.
 </p>
 
 <br>
