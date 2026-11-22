@@ -50,7 +50,7 @@
     <img
       alt="GitHub contribution snake animation"
       src="https://raw.githubusercontent.com/nooragab/nooragab/output/github-contribution-grid-snake.svg"
-      width="900"
+      width="800"
     />
   </picture>
 </p>
