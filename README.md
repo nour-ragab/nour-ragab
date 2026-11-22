@@ -4,7 +4,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="mailto:nourragab2811@gmail.com" title="Send me an Email"><img width="20" src="https://cdn.simpleicons.org/gmail/EA4335"> Gmail</a></code>
+  <code><a href="mailto:nourragab2811@gmail.com" title="Send me an Email"><img width="18" src="https://cdn.simpleicons.org/gmail/EA4335"> Gmail</a></code>
   <code><a href="https://www.linkedin.com/in/nour-ragab/" title="LinkedIn Profile"><img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
   <code><a href="https://nooragab.vercel.app/" title="Portfolio Website"><img width="20" src="https://cdn.simpleicons.org/vercel/888888"> Portfolio</a></code>
 </h5>
