@@ -1,12 +1,11 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nour+Ragab....;Nice+to+meet+you!&center=true&size=30" alt="Typing animation" 
-        width="350"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nour+Ragab....;Nice+to+meet+you!&center=true&size=30" alt="Typing animation" />
 </h1>
 
 <h5 align="center">
-  <code><a href="mailto:nourragab2811@gmail.com" title="Send me an Email"><img width="18" src="https://cdn.simpleicons.org/gmail/EA4335"> Gmail</a></code>
-  <code><a href="https://www.linkedin.com/in/nour-ragab/" title="LinkedIn Profile"><img width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
-  <code><a href="https://nooragab.vercel.app/" title="Portfolio Website"><img width="18" src="https://cdn.simpleicons.org/vercel/888888"> Portfolio</a></code>
+  <code><a href="mailto:nourragab2811@gmail.com" title="Send me an Email"><img width="22" src="https://cdn.simpleicons.org/gmail/EA4335"> Gmail</a></code>
+  <code><a href="https://www.linkedin.com/in/nour-ragab/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
+  <code><a href="https://nooragab.vercel.app/" title="Portfolio Website"><img width="22" src="https://cdn.simpleicons.org/vercel/888888"> Portfolio</a></code>
 </h5>
 
 <br>
@@ -51,7 +50,7 @@
     <img
       alt="GitHub contribution snake animation"
       src="https://raw.githubusercontent.com/nooragab/nooragab/output/github-contribution-grid-snake.svg"
-      width="750"
     />
   </picture>
 </p>
+
